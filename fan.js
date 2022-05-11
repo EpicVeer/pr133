@@ -3,7 +3,7 @@ fan_image = "";
 objects = [];
 
 function preload(){
-    fan_image = loadImage("Fan.jpg");
+    fan_image = loadImage("Fan.jpeg");
 }
 
 function setup(){
